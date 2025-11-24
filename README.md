@@ -1,1 +1,1 @@
-# gopredict-ai
+# gopredict-aihttps://sandbox.openai.com/mnt/data/gopredict.zip
